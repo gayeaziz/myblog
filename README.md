@@ -4,5 +4,6 @@ INE: N00865A20181
 Abel Bernard Diatte
 INE: N001BD420181
 
-user name admin: 
+user name admin: monblog
+
 mot de passe admin: 0000000000
